@@ -54,3 +54,9 @@ _\_override.tf.json
 
 .terraformrc
 terraform.rc
+
+---
+
+![alt text](https://github.com/DeluxWebSite/homework/blob/main/Снимок-экрана-2025-05-20-в-09.58.45.png)
+![alt text](https://github.com/DeluxWebSite/homework/blob/main/Снимок-экрана-2025-05-20-в-10.00.37.png)
+![alt text](https://github.com/DeluxWebSite/homework/blob/main/Снимок-экрана-2025-05-20-в-10.09.28.png)
